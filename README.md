@@ -2,8 +2,12 @@
     
 <h2> Files from the first semester of computer systems engineering</h2>
 
-- <b>Programs using C</b>
-  - [C Files](https://github.com/hernandezr-jcesar)
+- <b>Programs in C</b>
+  - [C Files](https://github.com/hernandezr-jcesar/Programming-Fundamentals/C)
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/hernandezr-jcesar)
+- <b>Programs in C++</b>
+  - [C Files](https://github.com/hernandezr-jcesar/Programming-Fundamentals/C++)
+
+- <b>Programs in PSC</b>
+  - [C Files](https://github.com/hernandezr-jcesar/Programming-Fundamentals/PSC)
+
